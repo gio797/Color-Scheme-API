@@ -55,3 +55,7 @@ form {
 .colors {
     display: flex;
 }
+
+.col-hex-val {
+    cursor: pointer;
+}
